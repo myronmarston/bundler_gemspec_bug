@@ -23,4 +23,5 @@ PLATFORMS
 
 DEPENDENCIES
   bundler_gemspec_bug!
+  mustache (= 0.12.0)
   rspec (= 2.5.0)
