@@ -1,0 +1,26 @@
+PATH
+  remote: .
+  specs:
+    bundler_gemspec_bug (0.0.1)
+      mustache (= 0.12.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    diff-lcs (1.1.2)
+    mustache (0.12.0)
+    rspec (2.5.0)
+      rspec-core (~> 2.5.0)
+      rspec-expectations (~> 2.5.0)
+      rspec-mocks (~> 2.5.0)
+    rspec-core (2.5.1)
+    rspec-expectations (2.5.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler_gemspec_bug!
+  rspec (= 2.5.0)
