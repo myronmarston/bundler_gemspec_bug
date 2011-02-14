@@ -1,0 +1,3 @@
+module BundlerGemspecBug
+  # Your code goes here...
+end
